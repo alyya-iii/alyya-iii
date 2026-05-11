@@ -1,6 +1,6 @@
 ## Hi there ◝(ᵔᵕᵔ)◜
 
-My name is Aliya, a CSE student interested in Python, ML, and healthcare software.
+My name is Aliya, a CSE student interested in Python and ML.
 
 ✿ Currently learning Data Science  
   
